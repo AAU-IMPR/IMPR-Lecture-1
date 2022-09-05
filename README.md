@@ -71,8 +71,18 @@ For det meste kommer du til at bruge to operationer:
 Når du laver et `push` på opgaven kan dine TA'er og jeg se dine ændringer og give dig kommentarer.
 
 Prøv nu at lav et commit.
-Højreklik på mappen [IMPR-Lecture-1](../IMPR-Lecture-1), vælg `git` og tryk commit.
+Højreklik på mappen [IMPR-Lecture-1](./), vælg `git` og tryk commit.
 
 Du kan nu vælge hvilke fil-ændringer (siden sidste commit) du gerne vil have med.
 Du skal også tilføje en kommentar der hjælper dig med at huske hvad ændringen er.
 
+Når du er færdig kan du trykke på `Commit` knappen i bunden.
+
+For at lave et et push skal du igen højreklikke på mappen [IMPR-Lecture-1](./) men denne gang vælge `push`.
+Du bliver nu vist de commits du er ved at sende online, og du bekræfter at du vil sende dem med et tryk på `push` igen.
+
+Sådan bliver proceduren for at lave de afleveringsopgaver og miniprojekter du skal lave som en del af kurset.
+
+Alt det feedback vi giver bliver vist på din github side for den specifikke opgave. 
+Det var den side du oprindeligt fandt linket til denne opgave på.
+Det er kun dig og dine undervisere der kan se din opgave og dit feedback.
