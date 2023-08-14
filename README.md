@@ -17,14 +17,15 @@ Filerne har følgende rolle:
 - [src/exercise1.c](src/exercise1.c) er et lille test-program der beregner omkredsen af en cirkel, 
 - [src/exercise2.c](src/exercise2.c) er et dårligt formateret program vi skal kigge på i opgave 2, og
 - [src/CMakeLists.txt](src/CMakeLists.txt) er en tekstfil der hjælper CLion med at vide hvordan programmerne skal oversættes til noget din computer forstår. Vi kigger kort på CMake senere i kurset.
+- [CMakeLists.txt](CMakeLists.txt) er en tekstfil der hjælper CLion med hvordan at projektet skal loades.
 
 Prøv først om du kan compile programmerne. Det gør du ved at trykke på den grønne hammer øverst.
 Hvis du set teksten `Build finished` i bunden af CLion kan du gå videre, ellers hiv fat i en medstuderende eller en hjælpelærer.
 
-Lykkedes det, så kan du nu kære programmet. Til højre for "hammeren" kan du vælge en `Run configuration`, vælg her `exercise1`.
+Lykkedes det, så kan du nu køre programmet. Til højre for "hammeren" kan du vælge en `Run configuration`, vælg her `exercise1`.
 Du kan nu trykke på pilen. Programmet beder dig indtaste en radius - prøv, og afslut med at trykke på `<enter>`.
 
-Prøv at lave en simpel ændring af [src/exercise1.c](src/exercise1.c): Oversæt f.eks. den fast engelske tekst i printf til dansk.
+Prøv at lave en simpel ændring af [src/exercise1.c](src/exercise1.c): Oversæt f.eks. den faste engelske tekst i printf til dansk.
 
 Prøv at lave forskellige små ændringer (fejl) i programmet, og find ud hvad compileren fortæller dig når du oversætter ("hammeren")
 det ændrede program.
